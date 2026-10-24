@@ -8,8 +8,8 @@
     {
       "id": "ruflo",
       "name": "Ruflo",
-      "repository": "ruvcvnet/ruflo",
-      "source": "https://github.com/ruvcvnet/ruflo",
+      "repository": "ruvnet/ruflo",
+      "source": "https://github.com/ruvnet/ruflo",
       "enabled": true,
       "type": "agent-plugin",
       "entrypoint": "plugin.json"
