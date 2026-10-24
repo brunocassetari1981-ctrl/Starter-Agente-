@@ -1,0 +1,18 @@
+{
+  "marketplace": {
+    "name": "Starter Agente Marketplace",
+    "description": "Registro local dos plugins disponíveis para o agente Starter Agente.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "id": "ruflo",
+      "name": "Ruflo",
+      "repository": "ruvcvnet/ruflo",
+      "source": "https://github.com/ruvcvnet/ruflo",
+      "enabled": true,
+      "type": "agent-plugin",
+      "entrypoint": "plugin.json"
+    }
+  ]
+}
